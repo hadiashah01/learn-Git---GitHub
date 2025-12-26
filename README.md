@@ -8,7 +8,7 @@ This repository documents my learning journey of Git and GitHub with notes and s
 
 ### 🔹 Git (Local Repository)
 - [Git Notes](screenshots/Git/README.md)
-- [Git Screenshots](screenshots/Git/md)
+- [Git Screenshots](screenshots/Git/README.md)
 
 
 ### 🔹 GitHub
