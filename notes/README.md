@@ -21,3 +21,19 @@ Steps:
 4. Click **Create repository**
 
 Screenshots of GitHub repository creation are provided in the screenshots/GitHub folder.
+## 📂 README Naming Convention
+
+GitHub automatically renders a file named `README.md` when opening a folder or repository.
+
+If a markdown file is named differently, for example:
+- `repository_creation.md`
+- `REPOSITORY_CREATION.md`
+
+then GitHub **will not display it automatically**.  
+The user must manually click the file to read it.
+
+### ✅ Best Practice
+Always name the main documentation file as `README.md` so that it is visible by default.
+> [!IMPORTANT]
+> Using the correct `README.md` naming convention improves repository usability and readability.
+
