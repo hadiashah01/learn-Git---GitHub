@@ -1,21 +1,23 @@
-# Git & GitHub Notes
+## 1. Local Git Repository (Using Git Commands)
 
-## What is Git?
-Git is a version control system used to track changes in files and manage source code locally.
+A local Git repository is created on a computer using Git CLI.
 
-## What is GitHub?
-GitHub is an online platform used to host Git repositories and collaborate with others.
+Steps:
+1. Create a project folder
+2. Run `git init` to initialize repository
+3. Check repository status using `git status`
+4. Add files using `git add`
+5. Save changes using `git commit`
 
-## Two Ways to Create a Repository
+Screenshots of `git init` and `git status` are provided in the screenshots/Git folder.
+## 2. GitHub Repository (Using GitHub UI)
 
-### 1. Local Git Repository
-A local Git repository is created on a computer using Git commands such as:
-- git init
-- git add
-- git commit
+A GitHub repository is created directly on GitHub using the web interface.
 
-### 2. GitHub Repository
-A GitHub repository is created directly on GitHub using the web interface and can be used to store and share code online.
+Steps:
+1. Login to GitHub
+2. Click the `+` icon and select **New repository**
+3. Enter repository name
+4. Click **Create repository**
 
-## Purpose of This Repository
-This repository contains my notes and screenshots related to learning Git and GitHub.
+Screenshots of GitHub repository creation are provided in the screenshots/GitHub folder.
