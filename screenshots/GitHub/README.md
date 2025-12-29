@@ -23,7 +23,7 @@
 
 ### 7. Repository is created with **first commit** ###
 
-![GitHub Repo](new%20repository.png)
+![GitHub Repo](new-repo.png)
 
 > **Note:** The clone URL is used to create a local copy of the GitHub repository on your system using Git.
 
