@@ -49,25 +49,6 @@ This repository demonstrates GitHub concepts such as:
 - Copying clone URLs
 - Navigating the GitHub interface
 ---
-## 📂 Project Documentation
-
-### 📘 Theory Notes
-- 🔹 **Git Theory:** [notes/learn-Git.md](notes/learn-Git.md)
-- 🔹 **GitHub Theory:** [notes/learn-GitHub.md](notes/learn-GitHub.md)
-
----
-
-### 🖼️ Screenshots & Practical Work
-
-#### 🔧 Git Commands (CLI)
- [Git Screenshots](screenshots/Git)
-
-
-#### 🌐 GitHub Interface (UI)
- [GitHub Screenshots](screenshots/GitHub)
-
-
----
 
 ## 📌 Repository Structure (Overview)
 
