@@ -60,10 +60,14 @@ This repository demonstrates GitHub concepts such as:
 ### 🖼️ Screenshots & Practical Work
 
 #### 🔧 Git Commands (CLI)
-- 📁 [Git Screenshots](screenshots/Git/README.md)
+- 📁### 📘 Theory Notes
+
+- **Git Theory:** [learn-Git.md](notes/learn-Git.md)
+
 
 #### 🌐 GitHub Interface (UI)
-- 📁 [GitHub Screenshots](screenshots/GitHub/README.md)
+- **GitHub Theory:** [learn-GitHub.md](notes/learn-GitHub.md)
+
 
 ---
 
