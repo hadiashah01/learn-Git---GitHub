@@ -29,14 +29,14 @@ This repository was created to:
 
 ## 🧠 Git Topics Covered
 
-| Command       | Purpose                     |
-|--------------|-----------------------------|
-| `git init`   | Initialize a repository     |
-| `git status` | Check repository status     |
-| `git add`    | Stage changes               |
-| `git commit` | Save changes                |
-| `git push`   | Push to remote repository   |
-| `git clone`  | Clone a repository          |
+| Command       | Purpose                     | Screenshot Links |
+|--------------|-----------------------------|----------------|
+| `git init`   | Initialize a repository     | [Git Init Screenshot](/screenshots/Git/git%20init.jpeg) |
+| `git status` | Check repository status     | [Git Status Screenshot](/screenshots/Git/git%20status.jpeg) |
+| `git add`    | Stage changes               |[Git Add Screenshot](/screenshots/Git/git%20add.jpg) |
+| `git commit` | Save changes                | [Git Commit Screenshot](/screenshots/Git/git%20commit.jpeg)|
+| `git push`   | Push to remote repository   | [Git Push Screenshot](/screenshots/Git/git%20push.jpeg) |
+| `git clone`  | Clone a repository          | [Git Clone Screenshot](/screenshots/Git/git%20clone.jpeg) 
 
 ---
 
