@@ -3,7 +3,7 @@
 This repository documents my learning journey of **Git and GitHub**.  
 It includes structured notes, practical Git commands, and screenshots to demonstrate usage.
 
----
+
 
 ## 📑 Table of Contents
 
@@ -15,7 +15,7 @@ It includes structured notes, practical Git commands, and screenshots to demonst
 - [Motivation](#-motivation)
 - [References](#-references)
 
----
+
 
 ## 📘 About This Repository
 
@@ -25,7 +25,7 @@ This repository was created to:
 - Practice proper documentation using README files
 - Follow professional Git workflow practices
 
----
+
 
 ## 🧠 Git Topics Covered
 
@@ -38,7 +38,7 @@ This repository was created to:
 | `git push`   | Push to remote repository   | [Git Push Screenshot](/screenshots/Git/git%20push.jpeg) |
 | `git clone`  | Clone a repository          | [Git Clone Screenshot](/screenshots/Git/git%20clone.jpeg) 
 
----
+
 
 ## 🌐 GitHub Basics
 
@@ -48,12 +48,12 @@ This repository demonstrates GitHub concepts such as:
 - Viewing individual commits
 - Copying clone URLs
 - Navigating the GitHub interface
----
+
 
 ## 📌 Repository Structure (Overview)
 
 
----
+
 ## 📁 Repository Structure
 
 ```text
@@ -83,23 +83,23 @@ learn-Git-and-GitHub/
 ## 🖼 Screenshots
 
 Cropped screenshots are added to clearly show:
-- Git commands with their outputs
-- GitHub UI elements and important actions
+- [Git commands with their outputs](screenshots/Git/README.md)
+- [GitHub UI elements and important actions](screenshots/GitHub/README.md)
 
----
+
 
 ## Best Practices
 
 - Always use clear and self-descriptive commit messages
 - Commit small, atomic changes instead of pushing everything at once
 
----
+
 
 ## 💡 Motivation
 
 > “Consistency and practice turn learning into mastery.”
 
----
+
 
 ## 🔗 References
 
