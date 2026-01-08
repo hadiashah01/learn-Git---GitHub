@@ -8,7 +8,7 @@ All steps are supported with screenshots.
 ## 1. Git Initialization
 **Command:**
 
-![Git Init Screenshot](git%20init.jpeg)
+![Git Init Screenshot](git-init.jpeg)
 
 **Description:**
 
@@ -17,7 +17,7 @@ Initializes an empty Git repository in the current directory.
 
 **Command:**
 
-![Git Status Screenshot](git%20status.jpeg)
+![Git Status Screenshot](git-status.jpeg)
 
 
 **Description:**
@@ -28,7 +28,7 @@ Displays the current state of the working directory and staging area.
 
 **Command:**
 
-![Git Add Screenshot](git%20add.jpg)
+![Git Add Screenshot](git-add.jpg)
 
 
 **Description:**
@@ -39,7 +39,7 @@ Stages all modified and new files for commit.
 
 **Command:**
 
-![Git Commit Screenshot](git%20commit.jpeg)
+![Git Commit Screenshot](git-commit.jpeg)
 
 
 **Description:**
@@ -50,7 +50,7 @@ Creates a snapshot of staged changes.
 
 **Command:**
 
-![Git Push Screenshot](git%20push.jpeg)
+![Git Push Screenshot](git-push.jpeg)
 
 
 Description:
@@ -64,7 +64,7 @@ Uploads local commits to the remote repository.
 
 **Command:**
 
-![Git Configure Username Screenshot](git%20config%20username.jpeg)
+![Git Configure Username Screenshot](git-config-username.jpeg)
 
 
 **Description:**
@@ -75,7 +75,7 @@ Sets the Git username globally.
 
 **Command:**
 
-![Git Configure Email Screenshot](git%20config%20usergmail.jpeg)
+![Git Configure Email Screenshot](git-config-email.jpeg)
 
 
 **Description:**
@@ -85,7 +85,7 @@ Sets the Git email globally.
 ## 8. View Commit History
 
 **Command:**
-![Git log Screenshot](git%20log.jpeg)
+![Git log Screenshot](git-log.jpeg)
 
 
 
@@ -96,7 +96,7 @@ Shows commit history of the repository.
 
 **Command:**
 
-![Git Remote Add Screenshot](git%20remote%20add.jpeg)
+![Git Remote Add Screenshot](git-remote-add.jpeg)
 
 
 **Description:**
@@ -107,7 +107,7 @@ Connects the local repository with a remote GitHub repository.
 
 **Command:**
 
-![Git View Remote Screenshot](git%20remote%20-v.jpeg)
+![Git View Remote Screenshot](git-remote-v.jpeg)
 
 
 **Description:**
@@ -118,7 +118,7 @@ Displays remote repository URLs.
 
 **Command:**
 
-![Git Push setup stream Screenshot](git%20push%20set-upstream.jpeg)
+![Git Push setup stream Screenshot](git-push-set-upstream.jpeg)
 
 
 **Description:**
@@ -129,7 +129,7 @@ Sets upstream branch and pushes code.
 
 **Command:**
 
-![Git Pull Screenshot](git%20pull.jpeg)
+![Git Pull Screenshot](git-pull.jpeg)
 
 
 
@@ -141,7 +141,7 @@ Fetches and merges changes from the remote repository.
 
 **Command:**
 
-![Git Clone Screenshot](git%20clone.jpeg)
+![Git Clone Screenshot](git-clone.jpeg)
 
 
 **Description:**
@@ -152,7 +152,7 @@ Creates a local copy of a remote repository.
 
 **Command:**
 
-![Git rm Screenshot](git%20rm.jpeg)
+![Git rm Screenshot](git-rm.jpeg)
 
 
 
@@ -164,7 +164,7 @@ Removes a file from the repository and stages the change.
 
 **Command:**
 
-![Git Remove Remote Screenshot](git%20remote%20rm.jpeg)
+![Git Remove Remote Screenshot](git-remote-rm.jpeg)
 
 
 **Description:**
@@ -175,7 +175,7 @@ Deletes the connection with the remote repository.
 
 **Command:**
 
-![Git Remote List Screenshot](git%20remote.jpeg)
+![Git Remote List Screenshot](git-remote.jpeg)
 
 
 
