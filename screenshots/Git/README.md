@@ -114,7 +114,7 @@ Connects the local repository with a remote GitHub repository.
 
 Displays remote repository URLs.
 
-##11. Push with Upstream
+## 11. Push with Upstream
 
 **Command:**
 
