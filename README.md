@@ -37,7 +37,7 @@ This repository was created to:
 | `git commit` | Save changes                | [Git Commit Screenshot](/screenshots/Git/git-commit.jpeg)|
 | `git push`   | Push to remote repository   | [Git Push Screenshot](/screenshots/Git/git-push.jpeg) |
 | `git clone`  | Clone a repository          | [Git Clone Screenshot](/screenshots/Git/git-clone.jpeg)|
-| `git pull`   | Fetch Fetch and merge changes from remote repository | [Git Pull Screenshot](screenshots\Git\git-pull.jpeg)|
+| `git pull`   | Fetch and merge changes from remote repository | [Git Pull Screenshot](screenshots\Git\git-pull.jpeg)|
 
 
 
